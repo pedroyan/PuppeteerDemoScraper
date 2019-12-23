@@ -16,8 +16,7 @@ const keypress = async () => {
 	await page.setViewport({ width: 1280, height: 800 });
 	await page.goto('https://www.wikipedia.org/');
 
-	console.log('Press any key to continue');
-	await keypress();
+	await page.screenshot({ path: 'SS.png', fullPage: true });
 
 	await browser.close();
 })();
