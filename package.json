@@ -1,5 +1,5 @@
 {
-  "name": "PuppeteerScraper",
+  "name": "puppeteer-scraper",
   "version": "1.0.0",
   "description": "A Web Scraper Demo using Puppeteer and NodeJs",
   "main": "index.js",
