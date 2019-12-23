@@ -1,0 +1,23 @@
+{
+  "name": "PuppeteerScraper",
+  "version": "1.0.0",
+  "description": "A Web Scraper Demo using Puppeteer and NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroyan/PuppeteerDemoScraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroyan/PuppeteerDemoScraper/issues"
+  },
+  "homepage": "https://github.com/pedroyan/PuppeteerDemoScraper#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
